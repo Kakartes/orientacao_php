@@ -1,0 +1,30 @@
+Homeworld Gems _ aparecer: "quer se juntar a rebelião da terra?"
+Off Colors _ aparecer: "quer se juntar a rebelião da terra?"
+cristal gems/ebelião da Terra
+
+cadastrar qual tipo de gem e se é rebelde ou não, qual a arma, qual a pedra, se é fusão, 
+se não for cristal gem aparecer a opção de se juntar a rebelião.
+
+se ele escolher ser um cristal gem criasse um novo objeto cristal gem dai lesse 
+qual a gem dele e a arma e aparecesse algo como "bem-vindo a rebelião" ou "partiu combater as diamantes"
+se ele negar criar um novo objeto homeword gems ler qual a diamante que ele serve, se fosse a amarelo aparecesse algo como "você não precisa ser forte sempre"
+ e se fosse a azul aparecesse "o choro não significa fraquese" e se fosse a branco "você precisa ser você mesmo" então desse a obpçao de se rebelar algo do tipo "seja rebelde"
+e se escolher off colors tambem criasse um nomo objeto com as classes da aparencia tipo fusão, defeituosa, ou sói rebelde.
+em todos class GEMS atributo nome, tipo de gem.
+na class cristal gems os atributos nome, tipo de gem, armas, e fusão ou não fusão.
+class homeworld nome, tipo de gem, diamante que serve.
+class off colors nome, tipo de gem, fusão ou não, defeituosa ou não, arma e qual era a corte que fugiu.
+
+na parte de escolher qual gem é, aparecer um menu com as seguintes opções:
+perola
+garnet
+ametista
+jasper
+bismuto
+lazuli
+peridot
+Aquamarine
+Padparadscha
+Espinela
+
+se ele escolher a Espinela a mensagem "espere..." deve aparecer e todo o comando deve encerrar.
